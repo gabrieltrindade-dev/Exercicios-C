@@ -1,0 +1,1 @@
+Olá, esses são exercícios usando a linguagem C.
